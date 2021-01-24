@@ -1,2 +1,2 @@
-# FRC-WPI-Che
-FRC's WPILib devfiles for eclipse che
+# WPILib-EclipseChe
+FRC WPILib devfiles for eclipse che
