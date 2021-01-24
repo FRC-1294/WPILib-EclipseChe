@@ -1,0 +1,17 @@
+apiVersion: 1.0.0
+metadata:
+  generateName: TopGun2021-Official-
+projects:
+
+  - name: frc2020
+    source:
+      type: git
+      location: "https://github.com/FRC-1294/frc2020.git"
+
+components:
+  -
+    type: chePlugin
+    id: redhat/java11/latest
+  -
+    type: chePlugin
+    reference: "https://github.com/theTisch21/FRC-WPI-Che/raw/ACME/wpi.yaml"

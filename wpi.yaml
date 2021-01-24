@@ -1,0 +1,16 @@
+apiVersion: v2
+publisher: WPI
+name: WPILib
+version: 2021
+type: VS Code extension
+displayName: WPILib
+title: WPILib
+description: WPI Library for VSCode
+icon: https://avatars3.githubusercontent.com/u/19267233?s=200&v=4
+repository: https://github.com/wpilibsuite/vscode-wpilib
+category: Library
+firstPublicationDate: '2020-01-10'
+spec:
+  extensions:
+  - "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wpilibsuite/vsextensions/vscode-wpilib/2021.1.2/vspackage"
+latestUpdateDate: "2021-1-2"

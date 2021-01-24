@@ -1,0 +1,17 @@
+apiVersion: 1.0.0
+metadata:
+  generateName: TopGun2021-Template-
+projects:
+
+  - name: frcTemplate
+    source:
+      type: git
+      location: "https://github.com/theTisch21/1294-Template.git"
+
+components:
+  -
+    type: chePlugin
+    id: redhat/java11/latest
+  -
+    type: chePlugin
+    reference: "https://github.com/theTisch21/FRC-WPI-Che/raw/ACME/wpi.yaml"
