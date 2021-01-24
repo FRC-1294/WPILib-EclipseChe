@@ -8,7 +8,7 @@ projects:
   - name: frcTemplate
     source:
       type: git
-      location: "https://github.com/theTisch21/1294-Template.git"
+      location: "https://github.com/FRC-1294/2021-Template.git"
 
 components:
   -
@@ -16,4 +16,4 @@ components:
     id: redhat/java11/latest
   -
     type: chePlugin
-    reference: "https://github.com/theTisch21/FRC-WPI-Che/raw/ACME/wpi.yaml"
+    reference: "https://raw.githubusercontent.com/FRC-1294/WPILib-EclipseChe/ACME/wpi.yaml"
